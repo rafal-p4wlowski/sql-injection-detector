@@ -1,0 +1,21 @@
+# Środowisko wirtualne Python
+venv/
+env/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Node.js i frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.eslintcache
+npm-debug.log
+yarn-error.log
+
+# Pliki systemowe i IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
